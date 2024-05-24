@@ -1,3 +1,5 @@
+![고양이이](./image.png)
+
 # Linux_Commands : top,ps,jobs,kill
 
 ## 리눅스 명령어 요약
